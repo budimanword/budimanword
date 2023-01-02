@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbo {
+  background-color: #1ec3cf;
+  padding-top: 6rem;
+}
+
+#Project {
+  background-color: #1ec3cf;
+}
+
+section {
+  padding-top: 5rem;
+}
